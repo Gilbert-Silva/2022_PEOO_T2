@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAluno xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Aluno>
+    <Id>1</Id>
+    <Nome>Renan</Nome>
+    <Matricula>1234</Matricula>
+    <Email>renan@email.com</Email>
+    <IdTurma>1</IdTurma>
+  </Aluno>
+  <Aluno>
+    <Id>2</Id>
+    <Nome>Luiza</Nome>
+    <Matricula>4321</Matricula>
+    <Email>luiza@email.com</Email>
+    <IdTurma>1</IdTurma>
+  </Aluno>
+  <Aluno>
+    <Id>3</Id>
+    <Nome>Felipe</Nome>
+    <Matricula>8888</Matricula>
+    <Email>felipe@email.com</Email>
+    <IdTurma>2</IdTurma>
+  </Aluno>
+</ArrayOfAluno>

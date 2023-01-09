@@ -8,8 +8,8 @@
   </Turma>
   <Turma>
     <Id>2</Id>
-    <Curso>InfoWeb</Curso>
-    <Descricao>3º</Descricao>
+    <Curso>TADS</Curso>
+    <Descricao>2º Semestre</Descricao>
     <AnoLetivo>2022</AnoLetivo>
   </Turma>
 </ArrayOfTurma>
